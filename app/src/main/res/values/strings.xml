@@ -1,0 +1,88 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Addressbook</string>
+    <string name="details">Details</string>
+    <string name="todo">TODO</string>
+    <string name="a">name-1</string>
+    <string name="b">name-2</string>
+    <string name="c">name-3</string>
+    <string name="d">name-4</string>
+    <string name="e">name-5</string>
+    <string name="f">name-6</string>
+    <string name="g">name-7</string>
+    <string name="h">name-8</string>
+    <string name="i">name-9</string>
+    <string name="j">name-10</string>
+    <string name="a1">123434...</string>
+    <string name="b1">235343...</string>
+    <string name="c1">443433...</string>
+    <string name="d1">343433...</string>
+    <string name="e1">143442...</string>
+    <string name="f1">232344...</string>
+    <string name="g1">342344...</string>
+    <string name="h1">345444...</string>
+    <string name="i1">343554...</string>
+    <string name="j1">2344455...</string>
+    <string name="textview">TextView</string>
+    <string name="todod">TODO</string>
+    <string name="close">close</string>
+    <string name="v1"><b>Village:</b> v1 </string>
+    <string name="p1"><b>Postoffice:</b> p1</string>
+    <string name="di1"><b>district:</b> d1</string>
+    <string name="dv1" tools:ignore="Typos"><b>Division:</b>di1</string>
+    <string name="cn1"><b>Country:</b>c1</string>
+
+    <string name="v2"><b>Village:</b> v2 </string>
+    <string name="p2"><b>Post Office:</b> p2</string>
+    <string name="di2"><b>district:</b> d2</string>
+    <string name="dv2"><b>Division:</b>dv2</string>
+    <string name="cn2"><b>Country:</b>c2</string>
+
+    <string name="v3"><b>Village:</b> v3 </string>
+    <string name="p3"><b>Postoffice:</b> p3</string>
+    <string name="di3"><b>district:</b> d3</string>
+    <string name="dv3"><b>Division:</b>dv3</string>
+    <string name="cn3"><b>Country:</b>c3</string>
+
+    <string name="v4"><b>Village:</b> v4 </string>
+    <string name="p4"><b>Post Office:</b> p4</string>
+    <string name="di4"><b>district:</b> d4</string>
+    <string name="dv4"><b>Division:</b>dv4</string>
+    <string name="cn4"><b>Country:</b>c4</string>
+
+    <string name="v5"><b>Village:</b> v5 </string>
+    <string name="p5"><b>Post Office:</b> p5</string>
+    <string name="di5"><b>district:</b> d5</string>
+    <string name="dv5"><b>Division:</b>dv5</string>
+    <string name="cn5"><b>Country:</b>c5</string>
+
+    <string name="v6"><b>Village:</b> v6 </string>
+    <string name="p6"><b>Post Office:</b> p6</string>
+    <string name="di6"><b>district:</b> d6</string>
+    <string name="dv6"><b>Division:</b>dv6</string>
+    <string name="cn6"><b>Country:</b>c6</string>
+
+    <string name="v7"><b>Village:</b> v7 </string>
+    <string name="p7"><b>Post Office:</b> p7</string>
+    <string name="di7"><b>district:</b> d7</string>
+    <string name="dv7"><b>Division:</b>dv7</string>
+    <string name="cn7"><b>Country:</b>c7</string>
+
+    <string name="v8"><b>Village:</b> v8 </string>
+    <string name="p8"><b>Post Office:</b> p8</string>
+    <string name="di8"><b>district:</b> d8</string>
+    <string name="dv8"><b>Division:</b>dv8</string>
+    <string name="cn8"><b>Country:</b>c8</string>
+
+    <string name="v9"><b>Village:</b> v9 </string>
+    <string name="p9"><b>Post Office:</b> p9</string>
+    <string name="di9"><b>district:</b> d9</string>
+    <string name="dv9"><b>Division:</b>dv9</string>
+    <string name="cn9"><b>Country:</b>c9</string>
+
+    <string name="v10"><b>Village:</b> v10 </string>
+    <string name="p10"><b>Post Office:</b> p10</string>
+    <string name="di10"><b>district:</b> d10</string>
+    <string name="dv10"><b>Division:</b>dv10</string>
+    <string name="cn10"><b>Country:</b>c10</string>
+    <string name="user_information">USER INFORMATION</string>
+</resources>
