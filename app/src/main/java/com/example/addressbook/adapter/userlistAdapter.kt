@@ -1,4 +1,4 @@
-package com.example.addressbook
+package com.example.addressbook.adapter
 
 import android.app.AlertDialog.*
 import android.content.Context
@@ -9,8 +9,8 @@ import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-
-
+import com.example.addressbook.R
+import com.example.addressbook.model.User
 
 
 class userlistAdapter(private val context:Context, private val dataset: List<User>):RecyclerView.Adapter<userlistAdapter.userViewHolder>() {
@@ -66,7 +66,7 @@ class userlistAdapter(private val context:Context, private val dataset: List<Use
         districtName.text = context.resources.getString(item.districtName)
         divisionName.text = context.resources.getString(item.divisionName)
         countryName.text = context.resources.getString(item.countryName)
-        closeCancelBtn.setOnClickListener(){
+        closeCancelBtn.setOnClickListener{
             alertDialog.dismiss()
         }
     }
@@ -77,13 +77,3 @@ class userlistAdapter(private val context:Context, private val dataset: List<Use
 
 }
 
-data class User(
-    val imageResourceId: Int,
-    val stringResourceId1: Int,
-    val stringResourceId2: Int,
-    val villageName: Int,
-    val postOfficeName: Int,
-    val districtName: Int,
-    val divisionName: Int,
-    val countryName: Int
-)
